@@ -1,5 +1,6 @@
 {
   "zController-Desktop": "1.0.0",
   "changelog": "Add Multiplayer + Bug Fixes",
-  "download_url": "https://z-controller.vercel.app/"
+  "download_url": "https://z-controller.vercel.app/",
+  "zController": "1.0.0"
 }
