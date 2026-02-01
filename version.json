@@ -1,6 +1,6 @@
 {
-  "zController-Desktop": "1.0.0",
-  "changelog": "Add Multiplayer + Bug Fixes",
+  "zController-Desktop": "1.1.0",
+  "changelog": "Add customizable controller + Make YBAX buttons one time or continuous pressing + Add speeds to mouse movement + Add ethernet + Bug Fixes",
   "download_url": "https://zcontroller.me/",
-  "zController": "1.0.0"
+  "zController": "1.1.0"
 }
