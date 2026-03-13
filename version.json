@@ -1,6 +1,6 @@
 {
   "zController-Desktop": "1.2.0",
-  "changelog": "Add DSU & gyroscope to wii + Bug fixes & Improvements",
+  "changelog": "Bug fixes",
   "download_url": "https://zcontroller.me/",
-  "zController": "1.2.0"
+  "zController": "1.2.1"
 }
