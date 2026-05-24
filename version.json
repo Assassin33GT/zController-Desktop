@@ -1,6 +1,6 @@
 {
-  "zController-Desktop": "1.3.3",
-  "changelog": "Critical bug fixes in the v1.3.2 Desktop⚠️",
+  "zController-Desktop": "1.4.0",
+  "changelog": "Another major update with new features and improvements.\nPlease make sure to download the latest versions of both zController Mobile and zController Desktop.",
   "download_url": "https://zcontroller.me/",
-  "zController": "1.3.2"
+  "zController": "1.4.0"
 }
